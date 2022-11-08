@@ -92,6 +92,9 @@
    .why-block__button {
       padding: 7px 32px;
    }
+   .decor-why {
+      display: none;
+   }
 }
 @media (max-width: 675px) {
    .why-block__container {
